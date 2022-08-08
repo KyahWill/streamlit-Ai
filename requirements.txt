@@ -1,1 +1,1 @@
-sklearn==1.0
+sklearn
