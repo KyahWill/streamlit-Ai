@@ -102,7 +102,7 @@ semver==2.13.0
 Send2Trash==1.8.0
 SimpleWebSocketServer==0.1.1
 six==1.16.0
-sklearn
+sklearn==0.24
 smart-open==6.0.0
 smmap==5.0.0
 soupsieve==2.3.2.post1
